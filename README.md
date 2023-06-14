@@ -1,7 +1,7 @@
 # UC Berkeley Coding Bootcamp - Module 1 - Challenge
 For our Module 1 Challenge assignment, we have been provided with the source code for marketing agency’s website. The goal of this project is to ensure that the webpage functions and displays information properly, while also cleaning up source code in the process (scout rule). Lastly, we must adhere to accessibility standards – both for individuals with disabilities and optimized for search engines. 
 
-## Table of Contents
+## Table of Contents 
 -[User Story](#user-story)
 -[Acceptance Criteria](#acceptance-criteria)
 -[Installation](#installation)
