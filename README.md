@@ -1,16 +1,17 @@
 # UC Berkeley Coding Bootcamp - Module 1 - Challenge
-For our Module 1 Challenge assignment, we have been provided with the source code for marketing agency’s website. The goal of this project is to ensure that the webpage functions and displays information properly, while also cleaning up source code in the process (scout rule). Lastly, we must adhere to accessibility standards – both for individuals with disabilities and optimized for search engines. 
+For our Module 1 Challenge assignment, we have been provided with the source code for a marketing agency’s website, Horiseon. The goal of this project is to ensure that the webpage functions and displays information properly, while also cleaning up source code in the process (scout rule). Lastly, we must adhere to accessibility standards – both for individuals with disabilities and optimized for search engines. Throughout working on this project, I attempted to clean up source code in both HTML and CSS files, consolidating code where possible. 
 
 ## Table of Contents 
--[User Story](#user-story)
--[Acceptance Criteria](#acceptance-criteria)
--[Installation](#installation)
--[Usage](#usage)
--[Features](#features)
--[Contributing](#contributing)
--[Support](#support)
--[Acknowledgements](#acknowledgements)
--[Authors](#authors)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [Support](#support)
+- [Acknowledgements](#acknowledgements)
+- [Authors](#authors)
+- [Webpage Screenshot](#webpage-screenshot)
 
 ## User Story
 AS A marketing agency
@@ -50,3 +51,6 @@ N/A
 
 ## Authors
 Source code modified by Patrick McClelland, UC Berkeley Bootcamp Student
+
+## Webpage Screenshot
+![Horiseon Marketing Agency - Website Screenshot](./Develop/screenshot.png)
