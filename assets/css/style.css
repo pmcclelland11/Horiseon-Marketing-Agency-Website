@@ -26,8 +26,9 @@ p {
     color: #d9dcd6;
 }
 
-/*  Header Class Division - Attributes */
-.header {
+
+/*  Header - Attributes */
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -39,7 +40,7 @@ h1 {
     font-size: 48px;
 }
 
-.header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -47,16 +48,16 @@ h1 {
     font-size: 20px;
 }
 
-.header div ul {
+header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/* Hero Class Division - Primary Image Attributes */
+/* Hero Division - Primary Image Attributes */
 .hero {
     height: 800px;
     width: 100%;
@@ -66,14 +67,14 @@ h1 {
     background-position: center;
 }
 
-/* Content Class Division  */
+/* Content Division  */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Benefits Class Division - Element Attributes */
+/* Benefits Division - Element Attributes */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -99,7 +100,7 @@ h3 {
 }
 
 /* Content Section - Layout Attributes */
-.content div {
+.content article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
